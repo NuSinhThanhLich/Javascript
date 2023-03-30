@@ -1,0 +1,28 @@
+{
+  "music_list": [
+    {
+      "name": "Nếu lúc đó",
+      "author": "Tlinh",
+      "link": "https://www.youtube.com/watch?v=fyMgBQioTLo",
+      "id": 1
+    },
+    {
+      "name": "Anh đã ổn hơn",
+      "author": "MCK",
+      "link": "https://www.youtube.com/watch?v=dz6xe0xXqYE",
+      "id": 2
+    },
+    {
+      "name": "Anh nhớ ra",
+      "author": "Vu",
+      "link": "https://www.youtube.com/watch?v=11XkLOIsLHI",
+      "id": 3
+    },
+    {
+      "name": "Yêu anh đi nhà anh bán bánh mì",
+      "author": "Phúc Du",
+      "link": "https://www.youtube.com/watch?v=-7sISWuTdj0",
+      "id": 4
+    }
+  ]
+}
